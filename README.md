@@ -1,7 +1,3 @@
-# Live hosted site
-
-https://cosc4353group25.azurewebsites.net
-
 # Fuel Quote Form
 
 Deliver a price quotation for fuel based on various criteria such as client location, client history, gallons requested, and company profit margin.
